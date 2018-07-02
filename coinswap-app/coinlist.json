@@ -1,0 +1,51 @@
+[
+    {
+        "id" : "1",
+        "name" : "Bitcoin",
+        "symbol" : "BTC",
+        "c" : "fa-bitcoin",
+        "l" : "Bitcoin"
+    },
+    {
+        "id" : "2",
+        "name" : "Ethereum",
+        "symbol" : "ETH",
+        "c" : "fa-ethereum",
+        "l" : "Ethereum"
+    },
+    {
+        "id" : "3",
+        "name" : "Litecoin",
+        "symbol" : "LTC",
+        "c" : "fa-litecoin",
+        "l" : "Litecoin"
+    },
+    {
+        "id" : "4",
+        "name" : "Bitcoin Cash",
+        "symbol" : "BCH",
+        "c" : "fa-bitcoin-cash",
+        "l" : "Bitcoin Cash"
+    },
+    {
+        "id" : "5",
+        "name" : "Bitcoin Gold",
+        "symbol" : "BTG",
+        "c" : "fa-bitcoin-gold",
+        "l" : "Bitcoin Gold"
+    },
+    {
+        "id" : "6",
+        "name" : "Dogecoin",
+        "symbol" : "DOGE",
+        "c" : "fa-dogecoin",
+        "l" : "Dogecoin"
+    },
+    {
+        "id" : "7",
+        "name" : "Nxt",
+        "symbol" : "NXT",
+        "c" : "fa-next",
+        "l" : "Nxt"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id" : "1",
+        "pair" : "btc_bch",
+        "rate" : "8.40737919 BCH",
+        "miner fee" : "0.01 BCH"
+    },
+    {
+        "id" : "2",
+        "pair" : "btc_btg",
+        "rate" : "223.22832876 BTG",
+        "miner fee" : "0.01 BTG"
+    },
+    {
+        "id" : "3",
+        "pair" : "btc_eth",
+        "rate" : "13.87317945 ETH",
+        "miner fee" : "0.01 ETH"
+    },
+    {
+        "id" : "4",
+        "pair" : "btc_ltc",
+        "rate" : "77.01550387 LTC",
+        "miner fee" : "0.01 LTC"
+    },
+    {
+        "id" : "5",
+        "pair" : "btc_doge",
+        "rate" : "2419512.19512195 DOGE",
+        "miner fee" : "0.01 DOGE"
+    },
+    {
+        "id" : "6",
+        "pair" : "btc_nxt",
+        "rate" : "62684.77574226 NXT",
+        "miner fee" : "0.01 NXT"
+    },
+    {
+        "id" : "7",
+        "pair" : "eth_bct",
+        "rate" : "0.07126474 BTC",
+        "miner fee" : "0.01 BTC"
+    },
+    {
+        "id" : "8",
+        "pair" : "eth_btg",
+        "rate" : "16.03663051 BTG",
+        "miner fee" : "0.01 BTG"
+    },
+    {
+        "id" : "9",
+        "pair" : "eth_bch",
+        "rate" : "0.60139147 BCH",
+        "miner fee" : "0.01 BCH"
+    },
+    {
+        "id" : "10",
+        "pair" : "eth_ltc",
+        "rate" : "5.5509892 LTC",
+        "miner fee" : "0.01 LTC"
+    },
+    {
+        "id" : "11",
+        "pair" : "eth_doge",
+        "rate" : "173388.74390243 DOGE",
+        "miner fee" : "0.01 DOGE"
+    },
+    {
+        "id" : "12",
+        "pair" : "eth_nxt",
+        "rate" : "4520.65570247 NXT",
+        "miner fee" : "0.01 NXT"
+    }
+]

@@ -9,7 +9,7 @@ export default class Header extends Component {
                     <ul>
                         <li>About</li>
                         <li>Support</li>
-                        <li>Coin</li>
+                        <li>Resources</li>
                         <li>Language</li>
                     </ul>
                 </nav>
