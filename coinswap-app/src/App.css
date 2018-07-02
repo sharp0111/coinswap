@@ -1,17 +1,21 @@
+/*Fonts-----------------------------------------------------------*/
+.App {
+font-family: 'Open Sans', sans-serif;
+}
+/*Variables------------------------------------------------------*/
+
+/*mixins----------------------------------------------------------*/
+
+
+/* App -----------------------------------------------------------*/
 .App {
   text-align: center;
+  margin: 0px 4.5%;
 }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
 }
 
 .App-title {
@@ -25,4 +29,41 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+/* Components -------------------------------------------------------*/
+
+/* Header */ 
+
+.nav_bar {
+  background-color: black;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
+
+.nav_container {
+  margin: 0px 12%;
+  font-size: 1.2rem;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title_block {
+  /* font-family: 'Roboto', sans-serif; */
+  /*this is if we write text instead of a .png*/
+  height: 385px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img_container {
+  margin-left: 4%;
+  margin-top: 35px;
 }
